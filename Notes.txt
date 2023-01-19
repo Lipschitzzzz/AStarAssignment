@@ -1,0 +1,13 @@
+Node a -> Node b -> Node c
+
+Desert  ->  Grass   ->  Forest
+
+Start from Node a
+It costs 1 day to travel through Node b
+It costs 3 days to travel through Node c
+So finally it costs 4 days to arrive Node c
+
+I didn't consider the current one but always calculate the next one cost.
+
+Github link
+https://github.com/Lipschitzzzz/AStarAssignment
